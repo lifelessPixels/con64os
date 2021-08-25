@@ -1,0 +1,6 @@
+<map id="UncacheablePageVirtualMemoryObject" name="UncacheablePageVirtualMemoryObject">
+<area shape="rect" id="node1" title="Class encapsulating single page object." alt="" coords="5,171,240,212"/>
+<area shape="rect" id="node2" href="$class_virtual_memory_object.html" title=" " alt="" coords="42,95,203,121"/>
+<area shape="rect" id="node3" href="$class_spinlock.html" title="Simple spinlock implementation." alt="" coords="24,5,101,32"/>
+<area shape="rect" id="node4" href="$class_list.html" title=" " alt="" coords="125,5,240,32"/>
+</map>

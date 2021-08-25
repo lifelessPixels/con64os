@@ -1,0 +1,5 @@
+<map id="ITextOutput" name="ITextOutput">
+<area shape="rect" id="node1" title=" " alt="" coords="91,5,188,32"/>
+<area shape="rect" id="node2" href="$class_graphics_terminal.html" title=" " alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$class_serial_port.html" title="Class for interfacing with serial port." alt="" coords="165,80,250,107"/>
+</map>

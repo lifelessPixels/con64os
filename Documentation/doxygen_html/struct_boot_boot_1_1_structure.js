@@ -1,0 +1,27 @@
+var struct_boot_boot_1_1_structure =
+[
+    [ "acpiPointer", "struct_boot_boot_1_1_structure.html#a9e97f9f3f2792bcaa79a53b17a16103d", null ],
+    [ "bspID", "struct_boot_boot_1_1_structure.html#aa07f0af5433ab2da3159eaf4b77a721e", null ],
+    [ "coreCount", "struct_boot_boot_1_1_structure.html#a7596d572a67d484579bd7371d3c5faa9", null ],
+    [ "datetime", "struct_boot_boot_1_1_structure.html#a581ad49f0533d0321646a1be809eaf2f", null ],
+    [ "efiPointer", "struct_boot_boot_1_1_structure.html#a64c49a7a3507edfd8038cf7ecdb89e2e", null ],
+    [ "framebufferHeight", "struct_boot_boot_1_1_structure.html#a659d2245f588f909436b8334b0f259d5", null ],
+    [ "framebufferPointer", "struct_boot_boot_1_1_structure.html#a226f76bc149509acce142b827cd78ace", null ],
+    [ "framebufferScanline", "struct_boot_boot_1_1_structure.html#abc61e1e2e564f4a6eadb1240e04c8753", null ],
+    [ "framebufferSize", "struct_boot_boot_1_1_structure.html#a4e2702dc5beb3b43eb396a304f078c2b", null ],
+    [ "framebufferType", "struct_boot_boot_1_1_structure.html#ae572bbdec338bfd0c5285227a523560d", null ],
+    [ "framebufferWidth", "struct_boot_boot_1_1_structure.html#a30467b6859a6dbc7a9ecd34ba773ef5e", null ],
+    [ "initrdPointer", "struct_boot_boot_1_1_structure.html#a47b82eaca3ec52f5e83ffbe1a090cc83", null ],
+    [ "initrdSize", "struct_boot_boot_1_1_structure.html#a3e35f20056e8c15b77153e9297a6d435", null ],
+    [ "magic", "struct_boot_boot_1_1_structure.html#a0e66f27e4de55f4efb7b4e896bcbde52", null ],
+    [ "memoryMap", "struct_boot_boot_1_1_structure.html#a00402616f1c896dcd2baa2ac6e6ee746", null ],
+    [ "mpPointer", "struct_boot_boot_1_1_structure.html#a02a9540ca4a0076c07e7f2bdcba257bb", null ],
+    [ "protocol", "struct_boot_boot_1_1_structure.html#ac9f10180fc7898d39ff80af1c8613d38", null ],
+    [ "size", "struct_boot_boot_1_1_structure.html#ab8df8fa79f8a782bf28936cc9646c761", null ],
+    [ "smbiosPointer", "struct_boot_boot_1_1_structure.html#a3fa9fdff6f3e919d49cf93c9f3faf8b8", null ],
+    [ "timezone", "struct_boot_boot_1_1_structure.html#a25b4db173031951360c51f765c5c356d", null ],
+    [ "unused0", "struct_boot_boot_1_1_structure.html#a7c0cd9d8251e20c2405ca142e99474a6", null ],
+    [ "unused1", "struct_boot_boot_1_1_structure.html#a3b9190388944cb887bcacd101f789de4", null ],
+    [ "unused2", "struct_boot_boot_1_1_structure.html#a465fdc59870c0967d758546608901d3c", null ],
+    [ "unused3", "struct_boot_boot_1_1_structure.html#af97900046f6c8fe101e4655ed261ac6c", null ]
+];
